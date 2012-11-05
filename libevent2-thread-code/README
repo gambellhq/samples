@@ -1,0 +1,14 @@
+Libevent2 update for Multithreaded, libvent-based socket server sample.
+
+This is a Libevent 2.x compatible version of Multithreaded, libevent-based
+socket server sample written by Ronald Bennett Cemer. The original README is
+kept as README.orig and the blog post about this sample is at:
+
+http://www.roncemer.com/multi-threaded-libevent-server-example
+
+There are two changes comparing to the original sample package:
+1. The original sample is written with Libevent 1.4.x, so I updated the code to
+   compile with Libevent 2.x;
+2. A Makefile is added for the ease of compilation and clean.
+
+All the functionalities are kept the same as original sample.
