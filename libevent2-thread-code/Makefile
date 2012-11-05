@@ -10,4 +10,4 @@ echoserver_threaded: echoserver_threaded.o ${LIBS} ${HEADERS}
 	${CC} echoserver_threaded.o ${LIBS} ${LDFLAGS} -o $@
 
 clean:
-	/bin/rm -rf ${BIN} *.o core *.core
+	/bin/rm -rf ${BINS} *.o core *.core
