@@ -6,6 +6,9 @@ kept as README.orig and the blog post about this sample is at:
 
 http://www.roncemer.com/multi-threaded-libevent-server-example
 
+LICENSE.txt along with the original code is kept. The license head in code
+reflects the change I made but the original one is in the version history.
+
 There are two changes comparing to the original sample package:
 1. The original sample is written with Libevent 1.4.x, so I updated the code to
    compile with Libevent 2.x;
