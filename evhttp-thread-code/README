@@ -1,0 +1,10 @@
+Multithreaded, evhttp-based http server sample.
+
+(Simple implementaion, not fully tested, may have bugs and design issues)
+
+This is a Multithreaded, evhttp-based http server sample written by Qi Huang.
+It is inspired by Ronald Bennett Cemer's multithreaded socket server and has
+kept part of his code. A libevent 2.x compatible of his Multithreaded socket
+server is also in the same repository.
+
+More to come...
